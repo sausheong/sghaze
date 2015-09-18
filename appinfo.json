@@ -1,7 +1,7 @@
 {
     "appKeys": {},
     "capabilities": [
-        "location"
+        ""
     ],
     "companyName": "sausheong@gmail.com",
     "longName": "SG Haze Watch",
@@ -28,6 +28,11 @@
                 "file": "fonts/UbuntuMono-Regular.ttf",
                 "name": "MONO_FONT_14",
                 "type": "font"
+            },
+            {
+                "file": "images/sghazewatch.png",
+                "name": "IMAGES_SGHAZEWATCH_PNG",
+                "type": "png"
             }
         ]
     },
@@ -35,7 +40,7 @@
     "shortName": "sghaze",
     "uuid": "30c6e941-4e44-4454-b99b-dc6878316f9d",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "hiddenApp": false,
         "watchface": true
